@@ -1,4 +1,4 @@
-# Windows 11
+# WINDOWS
 
 # Instalação do Windows 11  
 Guia completo para instalar o Windows 11 em **pendrive**, **VirtualBox** e **máquina real**, com todos os passos organizados e claros.
